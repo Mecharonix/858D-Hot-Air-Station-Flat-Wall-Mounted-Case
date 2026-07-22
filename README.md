@@ -15,4 +15,15 @@ All the models are uploaded here and at [MakerWorld](https://makerworld.com/en/m
 - [Bambu 3mf File](Bambu%20Studio%203mf.3mf)
 - [Onshape Doc](https://cad.onshape.com/documents/c4407a5c43bc1b5c0b9c161c/w/c94d43759bef9f2ce90c788b/e/c0365bbf50b355235e024fb7?renderMode=0&uiState=6a60e16867ae9c54c918ac92)
 
+## BOM (Bill-Of-Materials):
+
+| Component Name | Quantity |
+| :--- | :---: |
+| M3 Threaded Inserts | 6 |
+| Small Course Thread Wood Screws | 3 |
+| 3 Wire Power Cable | 1 |
+| 15x2mm Magnet (reuasable) | 1 |
+| M3 7mm Screws (reusable) | 6 |
+| Filament of choice | 172g |
+
 For all you people coming from hackclub, please watch the [video](https://github.com/Mecharonix/858D-Hot-Air-Station-Flat-Wall-Mounted-Case#:~:text=You%20can%20watch-,this,-YouTube%20video%20to) for judging this thing because im not too good at descriptions especially in .md

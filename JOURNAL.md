@@ -1,1 +1,1 @@
-
+i lowk didnt know i was supposed to make a journal, so i dont have much for this. ig you could watch the [video](https://github.com/Mecharonix/858D-Hot-Air-Station-Flat-Wall-Mounted-Case#:~:text=You%20can%20watch-,this,-YouTube%20video%20to) to see my proccess.

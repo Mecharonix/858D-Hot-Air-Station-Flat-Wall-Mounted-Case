@@ -1,6 +1,6 @@
 # 858D-Hot-Air-Station-Flat-Wall-Mounted-Case
 
-This project takes any generic 858D hot air station and makes it flat and wall mounted for space effeciency.
+This project takes any generic 858D hot air station and makes it flat and wall mounted for space effeciency. It has a wall-mount that screws into the wall, and allows the rest of the device to slot into it so you can take it off and use it somewhere else if you ever need to. it also has a removable cable wind and hot air gun holder, and due to its symmetry, it can be placed on either side of the device according to your desire. It features a non removable power cable to minimize the space required, it also has an embeded magnet to make the hot air gun know if its docked or not, so that it can power on and off automatically.
 
 <img width="8160" height="6120" alt="20260722_172930" src="https://github.com/user-attachments/assets/42373958-3763-49c1-9983-adda18c5ecc0" />
 
@@ -27,3 +27,7 @@ All the models are uploaded here and at [MakerWorld](https://makerworld.com/en/m
 | Filament of choice | 172g |
 
 For all you people coming from hackclub, please watch the [video](https://github.com/Mecharonix/858D-Hot-Air-Station-Flat-Wall-Mounted-Case#:~:text=You%20can%20watch-,this,-YouTube%20video%20to) for judging this thing because im not too good at descriptions especially in .md
+
+## AI Usage Declaration:
+
+I have not used AI to help me with anything other than the production of the video thumbnail which has nothing to do with the project itself. 

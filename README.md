@@ -9,7 +9,7 @@ All the models are uploaded here and at [MakerWorld](https://makerworld.com/en/m
 ## 3D Models:
 
 - [STL Files](.STL)
-- [3mf File](Bambu%20Studio%203mf.3mf)
+- [Bambu 3mf File](Bambu%20Studio%203mf.3mf)
 - [Onshape Doc](https://cad.onshape.com/documents/c4407a5c43bc1b5c0b9c161c/w/c94d43759bef9f2ce90c788b/e/c0365bbf50b355235e024fb7?renderMode=0&uiState=6a60e16867ae9c54c918ac92)
 
 For all you people coming from hackclub, please watch the video for judging this thing because im not too good at descriptions especially in .md
